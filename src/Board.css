@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+}
+
+.Winning-Message {
+  color: white;
+  font-weight: bold;
+}
